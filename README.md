@@ -1,4 +1,4 @@
-# Health Indicators ETL Pipeline — Africa
+# Health Indicators ETL Pipeline - Africa
 
 ## Overview
 End-to-end ETL pipeline analyzing World Bank health data across 54 African countries, with a focus on Senegal.
@@ -24,4 +24,5 @@ Python, Pandas, SQLite, Matplotlib, Jupyter Notebook
 - Infant mortality in Senegal dropped by nearly 40% between 2000 and 2014
 
 ## Data Source
-World Bank Health Nutrition and Population Statistics — via Kaggle
+World Bank Health Nutrition and Population Statistics-via Kaggle
+[World Bank Health Nutrition and Population Statistics](https://www.kaggle.com/datasets/theworldbank/health-nutrition-and-population-statistics) 

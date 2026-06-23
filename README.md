@@ -4,10 +4,10 @@
 End-to-end ETL pipeline analyzing World Bank health data across 54 African countries, with a focus on Senegal.
 
 ## Pipeline
-- **Extract** — Dataset downloaded from Kaggle (World Bank Health Nutrition and Population Statistics)
-- **Transform** — Data restructuring and cleaning with Pandas (wide to long format, filtering, type conversion)
-- **Load** — Storage in a SQLite database
-- **Analyze** — SQL queries and visualizations with Matplotlib
+- **Extract** - Dataset downloaded from Kaggle (World Bank Health Nutrition and Population Statistics)
+- **Transform** - Data restructuring and cleaning with Pandas (wide to long format, filtering, type conversion)
+- **Load** - Storage in a SQLite database
+- **Analyze** - SQL queries and visualizations with Matplotlib
 
 ## Tools
 Python, Pandas, SQLite, Matplotlib, Jupyter Notebook

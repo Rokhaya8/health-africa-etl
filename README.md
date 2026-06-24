@@ -12,7 +12,7 @@ analysis with SQL.
 
 ## Pipeline
 
-- **Extract** — Dataset downloaded programmatically from Kaggle via the Kaggle API
+- **Extract** - Dataset downloaded programmatically from Kaggle via the Kaggle API
   (World Bank Health Nutrition and Population Statistics).
 - **Transform** — Cleaning and restructuring with Pandas: column normalization,
   wide-to-long reshaping (`melt`), type conversion, removal of empty records, and

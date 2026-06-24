@@ -1,4 +1,4 @@
-# Health Indicators ETL Pipeline — Africa
+# Health Indicators ETL Pipeline - Africa
 
 End-to-end ETL pipeline that extracts, transforms, loads and analyzes World Bank
 health data across 54 African countries, with a focus on Senegal.

@@ -14,11 +14,11 @@ analysis with SQL.
 
 - **Extract** - Dataset downloaded programmatically from Kaggle via the Kaggle API
   (World Bank Health Nutrition and Population Statistics).
-- **Transform** — Cleaning and restructuring with Pandas: column normalization,
+- **Transform** - Cleaning and restructuring with Pandas: column normalization,
   wide-to-long reshaping (`melt`), type conversion, removal of empty records, and
   filtering to the 54 African countries.
-- **Load** — Storage in a SQLite database (`sante_afrique.db`).
-- **Analyze** — SQL queries and visualizations with Matplotlib.
+- **Load** -  Storage in a SQLite database (`sante_afrique.db`).
+- **Analyze** - SQL queries and visualizations with Matplotlib.
 
 ## Selected Indicators
 

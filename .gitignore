@@ -1,0 +1,8 @@
+*.db
+*.csv
+*.zip
+Nom du projet.txt
+HealthETL_bruoillon.ipynb
+.ipynb_checkpoints/
+__pycache__/
+!requirements.txt
